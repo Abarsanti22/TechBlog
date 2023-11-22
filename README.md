@@ -20,6 +20,7 @@ Enter npm install in the command line and then enter npm start to start the serv
  
 
 ## Screenshot
+![Screenshot 2023-11-22 at 8 58 02 AM](https://github.com/Abarsanti22/TechBlog/assets/138410240/82734384-7602-4c25-a83c-7b34fe0ac463)
 
 
 ## Deployed Link
