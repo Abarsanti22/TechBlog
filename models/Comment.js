@@ -41,11 +41,3 @@ post_id: {
 })
 
 module.exports = Comment;
-
-
-
-
-
-
-
-})
