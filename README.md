@@ -12,7 +12,7 @@
 * [Questions?](#questions)
 
 
-## Descriptiom
+## Description
 An application that follows the MVC paradigm, handlebars.js, Sequelize and express to create a blog site that allows users to login, add, edit and delete posts.
 
 ## Installation
